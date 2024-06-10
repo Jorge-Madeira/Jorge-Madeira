@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jorge-Madeira
 - 👀 I’m interested in Software Development, Cybersecurity and Computer Networks. 
-- 🌱 I’m currently learning C# and .NET framework
-- 💞️ I’m looking to collaborate with company's in order to learn more about the field.
+- 🌱 I’m constatly learning new subjects in order to upgrade my knowledge.
+- 💞️ I’m looking to collaborate with company's in order to learn more about the different fields.
 - 📫 How to reach me ...
       <h2>Contact Details</h2>
       <hr>
